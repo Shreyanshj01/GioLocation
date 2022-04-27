@@ -1,0 +1,134 @@
+2022-04-26 19:57:52,594:INFO:app:getAddressDeatails API is called
+2022-04-26 19:57:52,595:INFO:app:payload is in correct schema
+2022-04-26 19:57:52,595:INFO:app:calling get_giolocation
+2022-04-26 19:57:52,882:INFO:app:Google Geocode Api URL got called
+2022-04-26 19:57:52,882:INFO:app:google map api response received
+2022-04-26 19:57:52,883:INFO:app:Response generated in json format
+2022-04-26 19:57:52,883:INFO:app:response send to the user
+2022-04-26 20:02:59,852:INFO:app:getAddressDeatails API is called
+2022-04-26 20:02:59,853:INFO:app:payload is in correct schema
+2022-04-26 20:02:59,853:INFO:app:calling get_giolocation
+2022-04-26 20:03:00,275:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:03:00,275:INFO:app:google map api response received
+2022-04-26 20:03:00,278:INFO:app:Response generated in json format
+2022-04-26 20:11:48,208:INFO:app:getAddressDeatails API is called
+2022-04-26 20:11:48,208:INFO:app:payload is in correct schema
+2022-04-26 20:11:48,208:INFO:app:calling get_giolocation
+2022-04-26 20:11:48,605:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:11:48,605:INFO:app:google map api response received
+2022-04-26 20:11:48,605:INFO:app:Response generated in json format
+2022-04-26 20:16:05,344:INFO:app:getAddressDeatails API is called
+2022-04-26 20:16:05,346:INFO:app:payload is in correct schema
+2022-04-26 20:16:05,346:INFO:app:calling get_giolocation
+2022-04-26 20:16:05,648:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:16:05,648:INFO:app:google map api response received
+2022-04-26 20:16:05,648:INFO:app:Response generated in json format
+2022-04-26 20:21:01,424:INFO:app:getAddressDeatails API is called
+2022-04-26 20:21:01,424:INFO:app:payload is in correct schema
+2022-04-26 20:21:01,425:INFO:app:calling get_giolocation
+2022-04-26 20:21:01,836:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:21:01,836:INFO:app:google map api response received
+2022-04-26 20:21:01,836:INFO:app:Response generated in json format
+2022-04-26 20:21:50,679:INFO:app:getAddressDeatails API is called
+2022-04-26 20:21:50,679:INFO:app:payload is in correct schema
+2022-04-26 20:21:50,679:INFO:app:calling get_giolocation
+2022-04-26 20:21:50,985:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:21:50,985:INFO:app:google map api response received
+2022-04-26 20:21:50,985:INFO:app:Response generated in json format
+2022-04-26 20:25:36,228:INFO:app:getAddressDeatails API is called
+2022-04-26 20:25:36,228:INFO:app:payload is in correct schema
+2022-04-26 20:25:36,228:INFO:app:calling get_giolocation
+2022-04-26 20:25:36,462:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:25:36,462:INFO:app:google map api response received
+2022-04-26 20:25:36,463:INFO:app:Response generated in json format
+2022-04-26 20:26:49,678:INFO:app:getAddressDeatails API is called
+2022-04-26 20:26:49,679:INFO:app:payload is in correct schema
+2022-04-26 20:26:49,679:INFO:app:calling get_giolocation
+2022-04-26 20:26:49,911:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:26:49,912:INFO:app:google map api response received
+2022-04-26 20:26:49,912:INFO:app:Response generated in json format
+2022-04-26 20:28:45,767:INFO:app:getAddressDeatails API is called
+2022-04-26 20:28:45,767:INFO:app:payload is in correct schema
+2022-04-26 20:28:45,767:INFO:app:calling get_giolocation
+2022-04-26 20:28:46,089:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:28:46,089:INFO:app:google map api response received
+2022-04-26 20:29:08,018:INFO:app:getAddressDeatails API is called
+2022-04-26 20:29:08,020:INFO:app:payload is in correct schema
+2022-04-26 20:29:08,020:INFO:app:calling get_giolocation
+2022-04-26 20:29:08,290:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:29:08,290:INFO:app:google map api response received
+2022-04-26 20:30:56,910:INFO:app:getAddressDeatails API is called
+2022-04-26 20:30:56,911:INFO:app:payload is in correct schema
+2022-04-26 20:30:56,911:INFO:app:calling get_giolocation
+2022-04-26 20:30:57,110:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:30:57,110:INFO:app:google map api response received
+2022-04-26 20:30:57,110:INFO:app:Response generated in json format
+2022-04-26 20:31:08,314:INFO:app:getAddressDeatails API is called
+2022-04-26 20:31:08,314:INFO:app:payload is in correct schema
+2022-04-26 20:31:08,315:INFO:app:calling get_giolocation
+2022-04-26 20:31:08,483:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:31:08,483:INFO:app:google map api response received
+2022-04-26 20:31:08,483:INFO:app:Response generated in json format
+2022-04-26 20:31:15,895:INFO:app:getAddressDeatails API is called
+2022-04-26 20:31:15,895:INFO:app:payload is in correct schema
+2022-04-26 20:31:15,895:INFO:app:calling get_giolocation
+2022-04-26 20:31:16,045:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:31:16,045:INFO:app:google map api response received
+2022-04-26 20:33:21,234:INFO:app:getAddressDeatails API is called
+2022-04-26 20:33:21,235:INFO:app:payload is in correct schema
+2022-04-26 20:33:21,235:INFO:app:calling get_giolocation
+2022-04-26 20:33:21,551:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:33:21,551:INFO:app:google map api response received
+2022-04-26 20:35:35,868:INFO:app:getAddressDeatails API is called
+2022-04-26 20:35:35,868:INFO:app:payload is in correct schema
+2022-04-26 20:35:35,868:INFO:app:calling get_giolocation
+2022-04-26 20:35:36,202:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:35:36,202:INFO:app:google map api response received
+2022-04-26 20:35:38,213:INFO:app:getAddressDeatails API is called
+2022-04-26 20:35:38,213:INFO:app:payload is in correct schema
+2022-04-26 20:35:38,214:INFO:app:calling get_giolocation
+2022-04-26 20:35:38,344:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:35:38,344:INFO:app:google map api response received
+2022-04-26 20:40:52,303:INFO:app:getAddressDeatails API is called
+2022-04-26 20:40:52,304:INFO:app:payload is in correct schema
+2022-04-26 20:40:52,304:INFO:app:calling get_giolocation
+2022-04-26 20:40:52,646:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:40:52,647:INFO:app:google map api response received
+2022-04-26 20:42:36,536:INFO:app:getAddressDeatails API is called
+2022-04-26 20:42:36,536:INFO:app:payload is in correct schema
+2022-04-26 20:42:36,537:INFO:app:calling get_giolocation
+2022-04-26 20:42:36,866:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:42:36,866:INFO:app:google map api response received
+2022-04-26 20:43:32,938:INFO:app:getAddressDeatails API is called
+2022-04-26 20:43:32,938:INFO:app:payload is in correct schema
+2022-04-26 20:43:32,938:INFO:app:calling get_giolocation
+2022-04-26 20:43:33,303:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:43:33,303:INFO:app:google map api response received
+2022-04-26 20:46:16,051:INFO:app:getAddressDeatails API is called
+2022-04-26 20:46:16,051:INFO:app:payload is in correct schema
+2022-04-26 20:46:16,051:INFO:app:calling get_giolocation
+2022-04-26 20:46:16,454:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:46:16,454:INFO:app:google map api response received
+2022-04-26 20:47:19,431:INFO:app:getAddressDeatails API is called
+2022-04-26 20:47:19,432:INFO:app:payload is in correct schema
+2022-04-26 20:47:19,432:INFO:app:calling get_giolocation
+2022-04-26 20:47:19,745:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:47:19,745:INFO:app:google map api response received
+2022-04-26 20:49:24,215:INFO:app:getAddressDeatails API is called
+2022-04-26 20:49:24,215:INFO:app:payload is in correct schema
+2022-04-26 20:49:24,215:INFO:app:calling get_giolocation
+2022-04-26 20:49:24,581:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:49:24,581:INFO:app:google map api response received
+2022-04-26 20:49:24,581:ERROR:app:given address: "A99,ist cross" geolocation not found
+2022-04-26 20:50:07,607:INFO:app:getAddressDeatails API is called
+2022-04-26 20:50:07,608:INFO:app:payload is in correct schema
+2022-04-26 20:50:07,608:INFO:app:calling get_giolocation
+2022-04-26 20:50:07,972:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:50:07,972:INFO:app:google map api response received
+2022-04-26 20:50:07,972:ERROR:app:For given address: "A99,ist cross" geolocation not found
+2022-04-26 20:50:14,339:INFO:app:getAddressDeatails API is called
+2022-04-26 20:50:14,340:INFO:app:payload is in correct schema
+2022-04-26 20:50:14,340:INFO:app:calling get_giolocation
+2022-04-26 20:50:14,500:INFO:app:Google Geocode Api URL got called
+2022-04-26 20:50:14,500:INFO:app:google map api response received
+2022-04-26 20:50:14,506:ERROR:app:For given address: "A99,ist cross" geolocation not found

@@ -1,0 +1,4 @@
+{
+  "GOOGLE_GEOCODE_API_URL": "https://maps.googleapis.com/maps/api/geocode/",
+  "API_KEY" : "WRITE API KEY HERE"
+}
