@@ -15,23 +15,32 @@
 ## Installation
 
 1.Clone the repository
+
 ```bash
 git clone https://github.com/Shreyanshj01/GioLocation.git
 ```
+
 2.Navigate to the directory
+
 3.Create a virtual environment
+
 4.Activate the virtual environment
+
 5.Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
+
 6.Setup config.json file
+
 ```bash
 {
     "GOOGLE_GEOCODE_API_URL": "https://maps.googleapis.com/maps/api/geocode/",
     "API_KEY" : "YOUR API_KEY HERE"
 }
 ```
+
 7.Run app.py
+
 8.The API can be accessed at `http://localhost:5000`
